@@ -1,0 +1,9 @@
+{
+	"name": "saikiran-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9038eab9-33f3-4825-a493-e6788661a355",
+		"tenantId": "618032af-232f-4a33-9013-b96090301569"
+	}
+}
